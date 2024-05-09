@@ -1,5 +1,7 @@
 # pulse_sequencer
 
+This repository is no longer used.
+
 Relevant files/folders for the Jayich lab:
  - Breakout board: PCB_designs / Breakout_board / 2016_February
  - DDS boards: I don't know.
